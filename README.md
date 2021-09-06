@@ -85,6 +85,7 @@ pip install -r requirements.txt
 scrapy crawl lanzhou_spider -o items.json
 程序跑完后可以在项目目录下查看items.json数据
 
-create new branch dev.
-
+create new branch dev.git 
 啦啦啦
+GIT 动态令牌： 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
+
